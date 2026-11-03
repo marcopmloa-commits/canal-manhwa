@@ -1,3 +1,4 @@
 edge-tts
 numpy
 pillow
+requests
