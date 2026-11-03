@@ -22,7 +22,7 @@ Na raiz: `titulo`, `descricao`, `tags`, `thumb`, `thumb_sub`, `thumb_imagem`, `v
 - Conferir fatos em fonte oficial antes de postar.
 - Sem painéis de scan/pirataria: só capa oficial, pôster/visual do anime ou frames parados do trailer (sem áudio). 3–5 imagens por Short, sempre com narração por cima.
 - Trilha gerada pelo próprio código (sem direitos autorais).
-- Todo vídeo passa por aprovação antes de ir ao ar.
+- Produção automática: 3 Shorts por dia, publicados sem revisão manual (agendados para 12h, 16h e 19h). Ver `AUTOMACAO.md`.
 
 ## Enviar ao YouTube
 
@@ -33,5 +33,5 @@ python3 youtube_auth.py /caminho/fora/do/repo/yt_token.txt   # mostra um código
 python3 youtube_upload.py roteiros/001_the_boxer.json saida/001_the_boxer --token /caminho/fora/do/repo/yt_token.txt
 ```
 
-O vídeo sobe como **privado**; publique no YouTube Studio depois de aprovar. Para não autorizar de novo,
+Por padrão o vídeo sobe como **privado**. Use `--publico` para publicar na hora ou `--publicar-em 2026-11-04T12:00:00-03:00` para agendar. Para não autorizar de novo,
 salve o token como `YT_REFRESH_TOKEN` nas variáveis do ambiente (aí o `--token` é dispensável).

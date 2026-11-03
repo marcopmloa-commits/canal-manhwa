@@ -1,16 +1,35 @@
-"""Envia um Short ao YouTube como PRIVADO (aprovação manual antes de publicar).
+"""Envia um Short ao YouTube.
+
+Padrão: PRIVADO (aprovação manual no Studio). Opções:
+  --publico                publica na hora como público
+  --publicar-em DATAHORA   agenda a publicação (RFC3339, ex.: 2026-11-04T12:00:00-03:00);
+                           o vídeo fica privado até esse horário e então vira público sozinho
 
 Requer YT_CLIENT_ID, YT_CLIENT_SECRET e o refresh token, lido de YT_REFRESH_TOKEN
 ou do arquivo indicado em --token.
 
 Uso: python3 youtube_upload.py roteiros/001_the_boxer.json saida/001_the_boxer [--token ARQUIVO]
+     [--publico | --publicar-em DATAHORA]
 """
 import json, os, sys, urllib.error, urllib.parse, urllib.request
 
 
+def opt(name):
+    return sys.argv[sys.argv.index(name) + 1] if name in sys.argv else None
+
+
+def status():
+    st = {"privacyStatus": "private", "selfDeclaredMadeForKids": False}
+    if "--publico" in sys.argv:
+        st["privacyStatus"] = "public"
+    elif opt("--publicar-em"):
+        st["publishAt"] = opt("--publicar-em")  # exige privacyStatus private
+    return st
+
+
 def refresh_token():
-    if "--token" in sys.argv:
-        return open(sys.argv[sys.argv.index("--token") + 1]).read().strip()
+    if opt("--token"):
+        return open(opt("--token")).read().strip()
     return os.environ["YT_REFRESH_TOKEN"]
 
 
@@ -39,7 +58,7 @@ def main():
     meta = {
         "snippet": {"title": script["titulo"][:100], "description": script["descricao"],
                     "tags": script.get("tags", []), "categoryId": "1", "defaultLanguage": "pt-BR"},
-        "status": {"privacyStatus": "private", "selfDeclaredMadeForKids": False},
+        "status": status(),
     }
     size = os.path.getsize(video)
     req = urllib.request.Request(
@@ -52,7 +71,9 @@ def main():
         req = urllib.request.Request(upload_url, f.read(), method="PUT", headers={
             "Authorization": f"Bearer {tok}", "Content-Type": "video/mp4"})
     vid = json.loads(call(req)[1])["id"]
-    print(f"Enviado como PRIVADO: https://youtu.be/{vid}", flush=True)
+    st = status()
+    modo = f"AGENDADO para {st['publishAt']}" if "publishAt" in st else st["privacyStatus"].upper()
+    print(f"Enviado ({modo}): https://youtu.be/{vid}", flush=True)
     if os.path.exists(thumb):
         req = urllib.request.Request(
             f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={vid}",
