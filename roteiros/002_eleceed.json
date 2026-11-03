@@ -1,0 +1,74 @@
+{
+  "tag": "MANHWA NEWS",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "O anime de Eleceed já tem data: estreia em abril de 2027.",
+      "destaque": "Abril de 2027",
+      "sub": "Eleceed vira anime",
+      "tamanho": 160,
+      "imagem": "img/002_eleceed/01_visual_anime.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Eleceed é o manhwa de ação do Son Jeho, com arte da Zhena, publicado desde 2018 no Naver Webtoon.",
+      "destaque": "Eleceed",
+      "sub": "Son Jeho e Zhena",
+      "tamanho": 190,
+      "imagem": "img/002_eleceed/02_capa_webtoon.jpg",
+      "foco": 0.25
+    },
+    {
+      "fala": "A história segue o Jiwoo, um estudante com supervelocidade, que salva um gato ferido. Só que o gato fala, e é o Kayden, um dos despertos mais perigosos do mundo.",
+      "destaque": "O gato é o mais forte",
+      "tamanho": 140,
+      "imagem": "img/002_eleceed/03_pv_kayden.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "O anime estava previsto pra 2026, mas foi adiado. A produção é do estúdio DandeLion, com direção de Hiroshi Nishikiori.",
+      "destaque": "Adiado pra 2027",
+      "sub": "Estúdio DandeLion",
+      "tamanho": 150,
+      "imagem": "img/002_eleceed/01_visual_anime.jpg",
+      "foco": 0.75
+    },
+    {
+      "fala": "E a Crunchyroll confirmou que vai exibir a série enquanto ela passa no Japão.",
+      "destaque": "Na Crunchyroll",
+      "tamanho": 160,
+      "imagem": "img/002_eleceed/04_ilustracao_autor.jpg",
+      "foco": 0.35
+    },
+    {
+      "fala": "O dia exato da estreia ainda não saiu. Comenta aí: você já leu Eleceed? Segue o canal pra não perder nenhuma novidade.",
+      "destaque": "Já leu Eleceed?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "Eleceed vira anime em 2027",
+  "thumb_sub": "Abril de 2027",
+  "thumb_imagem": "img/002_eleceed/01_visual_anime.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "Eleceed vira ANIME em abril de 2027 ⚡ #manhwa #anime",
+  "descricao": "O anime de Eleceed, manhwa de Son Jeho e Zhena, estreia em abril de 2027! A adaptação era prevista para 2026, mas foi adiada. Produção do estúdio DandeLion, direção de Hiroshi Nishikiori, e a Crunchyroll vai exibir a série. O dia exato da estreia ainda não foi anunciado.\n\nVocê já leu Eleceed? Comenta aí 👇\n\n#manhwa #eleceed #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "eleceed",
+    "eleceed anime",
+    "anime",
+    "webtoon",
+    "crunchyroll",
+    "manhwa anime",
+    "anime 2027",
+    "novidades anime"
+  ],
+  "fontes_imagens": {
+    "01_visual_anime.jpg": "Key visual oficial do anime (c) ZHENA・LINEマンガ/ELECEED製作委員会, via eiga.com (anuncio de 07/2025)",
+    "02_capa_webtoon.jpg": "Capa oficial do webtoon - webtoons.com/en/action/eleceed/list?title_no=1571",
+    "03_pv_kayden.jpg": "Frame da Main PV 1 oficial (youtube.com/watch?v=-Vqya5QAqpc)",
+    "04_ilustracao_autor.jpg": "Ilustracao comemorativa oficial de ZHENA para o anuncio do anime, via eiga.com"
+  }
+}
