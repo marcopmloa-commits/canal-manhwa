@@ -14,13 +14,15 @@ Saída em `saida/<nome>/`: `short.mp4` (1080x1920), `thumbnail.jpg`, `post.txt` 
 ## Roteiro (JSON)
 
 Cada item de `segmentos`: `fala` (narração), `destaque` (título na tela), `sub` (selo, opcional),
-`tamanho` (fonte, opcional), `imagem` (caminho relativo ao JSON, opcional), `foco` (0–1, recorte vertical).
+`tamanho` (fonte, opcional), `imagem` (caminho relativo ao JSON, opcional), `foco` (0–1, recorte vertical),
+`video` (trecho de vídeo no lugar da imagem, sem o áudio original; até 6 s, depois segura o último quadro) e `video_inicio` (segundo de início no arquivo).
 Na raiz: `titulo`, `descricao`, `tags`, `thumb`, `thumb_sub`, `thumb_imagem`, `voz`, `velocidade`.
 
 ## Regras do canal
 
 - Conferir fatos em fonte oficial antes de postar.
-- Sem painéis de scan/pirataria: só capa oficial, pôster/visual do anime ou frames parados do trailer (sem áudio). 3–5 imagens por Short, sempre com narração por cima.
+- Sem painéis de scan/pirataria: só capa oficial, pôster/visual do anime, frames do trailer ou trechos curtos de trailer/PV oficial (sem o áudio original, até 6 s cada, no máximo 3 por Short). 3–5 imagens/trechos por Short, sempre com narração por cima.
+- Trechos de vídeo ficam em `roteiros/videos/<NNN_slug>/` (o YouTube bloqueia download a partir da nuvem: se não houver arquivo, usar imagens).
 - Trilha gerada pelo próprio código (sem direitos autorais).
 - Produção automática: 3 Shorts por dia, publicados sem revisão manual (agendados para 12h, 16h e 19h). Ver `AUTOMACAO.md`.
 

@@ -9,16 +9,24 @@ Os vídeos são publicados automaticamente, sem revisão manual: por isso as reg
 2. **Pré-checagem:** `YT_CLIENT_ID`, `YT_CLIENT_SECRET` e `YT_REFRESH_TOKEN` precisam existir (nunca imprimir os valores).
    Se faltar algum, parar e avisar.
 3. **Histórico:** ler `roteiros/*.json` e `historico.md` para não repetir manhwa nem formato dos últimos 7 dias.
-4. **Escolher 3 temas**, cada um de um formato diferente:
+4. **Escolher 3 temas**, de formatos diferentes, e **pelo menos 1 por dia deve ser História**:
+   - **História** (conta a trama de um manhwa como narrativa: premissa, virada do 1º arco e um gancho no final
+     tipo "e aí ele descobre que…"; sem spoilers do final; avisar "sem spoiler do final" no 1º segmento;
+     pode virar série "Parte 1/2/3" para obras longas, registrando a parte em `historico.md`);
    - **Notícia** (anime/live-action anunciado, trailer, data de estreia, fim/retorno de temporada, prêmio);
    - **Ranking/lista** (ex.: "5 manhwas de luta subestimados", "manhwas parecidos com X");
    - **Explicação/curiosidade** (quem é tal personagem, o que é tal sistema/poder, origem da obra, autor).
-   Sem notícia nova e confirmada no dia, trocar por outro ranking ou explicação: nunca inventar notícia.
+   Sem notícia nova e confirmada no dia, trocar por outro formato: nunca inventar notícia.
+   Para História, conferir a trama na sinopse oficial (Webtoon/Tapas/Tappytoon/editora) e em resumos confiáveis.
 5. **Fatos:** conferir cada afirmação em fonte oficial (editora/plataforma: Webtoon, Kakao, Tapas, Tappytoon;
    estúdio/distribuidora: Crunchyroll, Netflix etc.; perfis oficiais). Na dúvida, cortar a frase.
    Anotar as fontes em `historico.md`.
 6. **Imagens:** só capa oficial, pôster/visual oficial ou frame parado de trailer oficial, salvas em
    `roteiros/img/<NNN_slug>/`. Nada de painel de scan/pirataria. Sem imagem oficial, escolher outro tema.
+   **Vídeos:** se houver trailer/PV oficial disponível como arquivo (ex.: colocado pelo dono em `roteiros/videos/`,
+   ou baixável de fonte oficial), usar até 3 trechos de no máximo 6 s (campo `video` + `video_inicio`), sem o áudio
+   original e com narração por cima; registrar a origem em `fontes_imagens`. O YouTube costuma bloquear download a
+   partir da nuvem: se falhar, seguir só com imagens (não insistir, não usar reupload não oficial).
 7. **Roteiro:** `roteiros/<NNN>_<slug>.json` no mesmo formato de `001_the_boxer.json`
    (numeração sequencial; 6–7 segmentos; 30–50 s de narração; 3–5 imagens; gancho forte no 1º segmento;
    pergunta + "segue o canal" no final; título com emoji e `#manhwa`; descrição com hashtags; tags).

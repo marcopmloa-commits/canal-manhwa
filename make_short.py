@@ -222,8 +222,32 @@ def prep_image(path, base_dir, foco=0.5):
     return {"bg": bg, "sharp": sharp, "mask": mask, "size": (cw, ch)}
 
 
+def prep_video(path, base_dir, inicio=0.0, dur=6.0):
+    """Trecho de vídeo (sem áudio) recortado para o quadro; quadros a 15 fps, reaproveitados a 30 fps."""
+    cw, ch = CARD[2] - CARD[0], CARD[3] - CARD[1]
+    raw = subprocess.run(
+        ["ffmpeg", "-loglevel", "error", "-ss", str(inicio), "-t", str(dur), "-i", os.path.join(base_dir, path),
+         "-an", "-vf", f"fps=15,scale={cw}:{ch}:force_original_aspect_ratio=increase,crop={cw}:{ch}",
+         "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], capture_output=True, check=True).stdout
+    n = len(raw) // (cw * ch * 3)
+    if not n:
+        raise SystemExit(f"Vídeo sem quadros: {path}")
+    frames = [Image.frombuffer("RGB", (cw, ch), raw[k * cw * ch * 3:(k + 1) * cw * ch * 3]) for k in range(n)]
+    blur = cover(frames[0], W // 4, H // 4).filter(ImageFilter.GaussianBlur(10)).resize((W, H), Image.BILINEAR)
+    mask = Image.new("L", (cw, ch), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, cw - 1, ch - 1), 28, fill=255)
+    return {"bg": np.asarray(blur, np.float32) * 0.32, "frames": frames, "mask": mask, "size": (cw, ch)}
+
+
 def draw_card(frame, img, lt, seg_dur):
     cw, ch = img["size"]
+    if "frames" in img:  # trecho de vídeo: segura o último quadro se a fala for mais longa
+        crop = img["frames"][min(len(img["frames"]) - 1, max(0, int(lt * 15)))]
+        rise = int(60 * (1 - min(1, max(0, lt) / 0.25)) ** 3)
+        d = ImageDraw.Draw(frame)
+        d.rounded_rectangle((CARD[0] - 8, CARD[1] - 8 + rise, CARD[2] + 8, CARD[3] + 8 + rise), 34, fill=(*RED, 255))
+        frame.paste(crop.convert("RGBA"), (CARD[0], CARD[1] + rise), img["mask"])
+        return
     p = min(1, max(0, lt / max(seg_dur, 0.1)))
     z = 1.12 - 0.10 * p  # zoom-in lento (Ken Burns)
     sw, sh = img["sharp"].size
@@ -241,8 +265,15 @@ def draw_card(frame, img, lt, seg_dur):
 def render(script, words, starts, dur, out_mp4, audio_mix, base_dir="."):
     bg, grains = base_layers()
     segs = script["segmentos"]
-    imgs = [prep_image(s["imagem"], base_dir, s.get("foco", 0.5)) if s.get("imagem") else None for s in segs]
     ends = starts[1:] + [dur]
+    imgs = []
+    for k, s in enumerate(segs):
+        if s.get("video"):
+            imgs.append(prep_video(s["video"], base_dir, s.get("video_inicio", 0), min(6, ends[k] - starts[k] + 0.3)))
+        elif s.get("imagem"):
+            imgs.append(prep_image(s["imagem"], base_dir, s.get("foco", 0.5)))
+        else:
+            imgs.append(None)
     ff = subprocess.Popen(
         ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
          "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-i", audio_mix,
