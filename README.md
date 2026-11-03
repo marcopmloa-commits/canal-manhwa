@@ -23,3 +23,15 @@ Na raiz: `titulo`, `descricao`, `tags`, `thumb`, `thumb_sub`, `thumb_imagem`, `v
 - Sem painéis de scan/pirataria: só capa oficial, pôster/visual do anime ou frames parados do trailer (sem áudio). 3–5 imagens por Short, sempre com narração por cima.
 - Trilha gerada pelo próprio código (sem direitos autorais).
 - Todo vídeo passa por aprovação antes de ir ao ar.
+
+## Enviar ao YouTube
+
+Requer `YT_CLIENT_ID` e `YT_CLIENT_SECRET` (cliente OAuth "TVs e dispositivos de entrada limitada") nas variáveis do ambiente.
+
+```bash
+python3 youtube_auth.py /caminho/fora/do/repo/yt_token.txt   # mostra um código para digitar em google.com/device
+python3 youtube_upload.py roteiros/001_the_boxer.json saida/001_the_boxer --token /caminho/fora/do/repo/yt_token.txt
+```
+
+O vídeo sobe como **privado**; publique no YouTube Studio depois de aprovar. Para não autorizar de novo,
+salve o token como `YT_REFRESH_TOKEN` nas variáveis do ambiente (aí o `--token` é dispensável).
