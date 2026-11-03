@@ -1,0 +1,74 @@
+{
+  "tag": "HISTÓRIA MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Imagina ser o caçador mais fraco do mundo, e do nada virar o único capaz de subir de nível. Essa é Solo Leveling, parte um, sem spoiler do final.",
+      "destaque": "O mais fraco do mundo",
+      "sub": "Solo Leveling • Parte 1",
+      "tamanho": 140,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 31.5
+    },
+    {
+      "fala": "Num mundo onde portais se abrem e liberam monstros, pessoas com poderes, os caçadores, são as únicas que conseguem enfrentar o que sai deles.",
+      "destaque": "Portais e monstros",
+      "tamanho": 150,
+      "imagem": "img/003_solo_leveling_parte1/03_titulo_capa.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Sung Jinwoo é um caçador rank E, o nível mais baixo. Ele quase morre em toda missão, mas continua indo, porque precisa do dinheiro.",
+      "destaque": "Rank E",
+      "sub": "Sung Jinwoo",
+      "tamanho": 190,
+      "imagem": "img/003_solo_leveling_parte1/02_jinwoo_capa.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Até que o grupo dele entra numa masmorra dupla, rara e absurdamente perigosa. Quase ninguém sai vivo de lá.",
+      "destaque": "A masmorra dupla",
+      "tamanho": 150,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 3
+    },
+    {
+      "fala": "Jinwoo sobrevive. E quando acorda, um misterioso Sistema escolhe ele como único jogador. Agora ele pode subir de nível, coisa que nenhum outro caçador consegue.",
+      "destaque": "Só ele sobe de nível",
+      "sub": "O Sistema",
+      "tamanho": 140,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 35
+    },
+    {
+      "fala": "Quer a parte dois? Comenta aí e segue o canal pra não perder a continuação.",
+      "destaque": "Quer a parte 2?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "O caçador mais fraco do mundo",
+  "thumb_sub": "Solo Leveling • Parte 1",
+  "thumb_imagem": "img/003_solo_leveling_parte1/02_jinwoo_capa.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "O caçador MAIS FRACO do mundo 🗡️ Solo Leveling Parte 1 #manhwa #anime",
+  "descricao": "A história de Solo Leveling, parte 1 (sem spoiler do final): Sung Jinwoo é um caçador rank E que quase morre em toda missão, até sobreviver a uma masmorra dupla e ser escolhido pelo misterioso Sistema como o único jogador capaz de subir de nível.\n\nSolo Leveling: web novel de Chugong, webtoon de Dubu (Redice Studio), anime do A-1 Pictures na Crunchyroll.\n\nQuer a parte 2? Comenta aí 👇\n\n#manhwa #sololeveling #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "solo leveling",
+    "solo leveling historia",
+    "sung jinwoo",
+    "anime",
+    "webtoon",
+    "crunchyroll",
+    "resumo manhwa",
+    "historia de manhwa"
+  ],
+  "fontes_imagens": {
+    "01_capa_tapas.jpg": "Banner oficial do webtoon na Tapas - tapas.io/series/solo-leveling-comic/info",
+    "02_jinwoo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "videos/solo_leveling/pv_s2_lisa.mp4": "PV oficial da 2a temporada (abertura LiSA), publicado por @sololeveling_pr - x.com/sololeveling_pr/status/1861787313740656651 (sem áudio)",
+    "03_titulo_capa.jpg": "Recorte do mesmo banner oficial da Tapas"
+  }
+}

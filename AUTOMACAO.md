@@ -25,8 +25,10 @@ Os vídeos são publicados automaticamente, sem revisão manual: por isso as reg
    `roteiros/img/<NNN_slug>/`. Nada de painel de scan/pirataria. Sem imagem oficial, escolher outro tema.
    **Vídeos:** se houver trailer/PV oficial disponível como arquivo (ex.: colocado pelo dono em `roteiros/videos/`,
    ou baixável de fonte oficial), usar até 3 trechos de no máximo 6 s (campo `video` + `video_inicio`), sem o áudio
-   original e com narração por cima; registrar a origem em `fontes_imagens`. O YouTube costuma bloquear download a
-   partir da nuvem: se falhar, seguir só com imagens (não insistir, não usar reupload não oficial).
+   original e com narração por cima; registrar a origem em `fontes_imagens`. O YouTube bloqueia download a
+   partir da nuvem, mas **vídeos de contas oficiais no X funcionam** com `python3 -m yt_dlp <link do post>` (ex.: @sololeveling_pr).
+   Salvar sem áudio em `roteiros/videos/<obra>/` (`ffmpeg -i x.mp4 -an -c:v copy`), evitar trechos com texto em
+   japonês, créditos ou rostos de artistas. Se falhar, seguir só com imagens (não usar reupload não oficial).
 7. **Roteiro:** `roteiros/<NNN>_<slug>.json` no mesmo formato de `001_the_boxer.json`
    (numeração sequencial; 6–7 segmentos; 30–50 s de narração; 3–5 imagens; gancho forte no 1º segmento;
    pergunta + "segue o canal" no final; título com emoji e `#manhwa`; descrição com hashtags; tags).
