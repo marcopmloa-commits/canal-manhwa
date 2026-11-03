@@ -8,7 +8,10 @@ Os vídeos são publicados automaticamente, sem revisão manual: por isso as reg
 1. **Branch:** trabalhar em `short-the-boxer-imagens` (`git fetch origin short-the-boxer-imagens && git checkout short-the-boxer-imagens`).
 2. **Pré-checagem:** `YT_CLIENT_ID`, `YT_CLIENT_SECRET` e `YT_REFRESH_TOKEN` precisam existir (nunca imprimir os valores).
    Se faltar algum, parar e avisar.
-3. **Histórico:** ler `roteiros/*.json` e `historico.md` para não repetir manhwa nem formato dos últimos 7 dias.
+3. **Histórico:** ler `roteiros/*.json` e `historico.md` para não repetir manhwa nem formato dos últimos 7 dias
+   **Exceção — séries de História:** a continuação ("Parte 2, 3…") de uma História publicada **sai no dia seguinte**
+   à parte anterior e tem prioridade sobre outros temas, até a obra chegar a um bom ponto de parada (sem spoiler do
+   final). Ex.: Solo Leveling Parte 1 em 03/11 → Parte 2 em 04/11. Ela conta como a História do dia.
 4. **Escolher 3 temas**, de formatos diferentes, e **pelo menos 1 por dia deve ser História**:
    - **História** (conta a trama de um manhwa como narrativa: premissa, virada do 1º arco e um gancho no final
      tipo "e aí ele descobre que…"; sem spoilers do final; avisar "sem spoiler do final" no 1º segmento;
