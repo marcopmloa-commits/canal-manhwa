@@ -1,0 +1,82 @@
+{
+  "tag": "RANKING MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Terminou Solo Leveling? Aqui vão três manhwas pra ler agora.",
+      "destaque": "Depois de Solo Leveling",
+      "sub": "Top 3",
+      "tamanho": 130,
+      "imagem": "img/009_ranking_parecidos_solo_leveling/01_orv_poster_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Número três: The Greatest Estate Developer. Um estudante de engenharia acorda em outro mundo como um nobre falido, e usa a engenharia pra salvar a família.",
+      "destaque": "#3 Estate Developer",
+      "sub": "Engenharia em outro mundo",
+      "tamanho": 130,
+      "imagem": "img/009_ranking_parecidos_solo_leveling/03_tged_poster_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Número dois: Overgeared. Shin Youngwoo vive de bicos e joga Satisfy, um jogo de realidade virtual, até ganhar uma classe lendária.",
+      "destaque": "#2 Overgeared",
+      "sub": "Classe lendária",
+      "tamanho": 150,
+      "imagem": "img/009_ranking_parecidos_solo_leveling/04_overgeared_kv_anime.jpg",
+      "foco": 0.2
+    },
+    {
+      "fala": "E o anime estreou em outubro, na Crunchyroll.",
+      "destaque": "Anime no ar",
+      "sub": "Crunchyroll",
+      "tamanho": 160,
+      "imagem": "img/009_ranking_parecidos_solo_leveling/04_overgeared_kv_anime.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Número um: Omniscient Reader. Kim Dokja é o único leitor de um web romance, até o mundo real começar a seguir a história.",
+      "destaque": "#1 Omniscient Reader",
+      "sub": "O único leitor",
+      "tamanho": 130,
+      "imagem": "img/009_ranking_parecidos_solo_leveling/01_orv_poster_webtoon.jpg",
+      "foco": 0.2
+    },
+    {
+      "fala": "A arte é do Redice Studio, o mesmo de Solo Leveling, e virou filme na Coreia em 2025.",
+      "destaque": "Mesmo estúdio",
+      "sub": "Redice Studio",
+      "tamanho": 150,
+      "imagem": "img/009_ranking_parecidos_solo_leveling/01_orv_poster_webtoon.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Qual você já leu? Comenta e segue o canal.",
+      "destaque": "Qual você já leu?",
+      "sub": "Comenta aí",
+      "tamanho": 150
+    }
+  ],
+  "thumb": "3 manhwas depois de Solo Leveling",
+  "thumb_sub": "Ranking",
+  "thumb_imagem": "img/009_ranking_parecidos_solo_leveling/01_orv_poster_webtoon.jpg",
+  "thumb_foco": 0.25,
+  "titulo": "3 MANHWAS pra ler depois de Solo Leveling 📚 Ranking #manhwa #anime",
+  "descricao": "Ranking: The Greatest Estate Developer (BK_Moon / Lee Hyun-min / Kim Hyun-soo, Naver Webtoon), Overgeared (Saenal / Team Argo, anime da J.C.Staff na Crunchyroll desde outubro de 2026) e Omniscient Reader (singNsong / Sleepy-C, Redice Studio; filme em 2025).\n\nQual desses você já leu? Comenta aí 👇\n\n#manhwa #omniscientreader #overgeared #thegreatestestatedeveloper #sololeveling #webtoon",
+  "tags": [
+    "manhwa",
+    "ranking manhwa",
+    "manhwa parecido com solo leveling",
+    "omniscient reader",
+    "overgeared",
+    "the greatest estate developer",
+    "webtoon",
+    "indicação de manhwa"
+  ],
+  "fontes_imagens": {
+    "01_orv_poster_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/omniscient-reader/list?title_no=2154",
+    "03_tged_poster_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/fantasy/the-greatest-estate-developer/list?title_no=3596",
+    "04_overgeared_kv_anime.jpg": "Key visual oficial do anime - tempal-anime.net (core_sys/images/main/home/kv03.jpg)"
+  }
+}

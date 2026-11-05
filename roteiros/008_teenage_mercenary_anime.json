@@ -1,0 +1,81 @@
+{
+  "tag": "MANHWA NEWS",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Mais um manhwa da Webtoon vai virar anime: Teenage Mercenary chega em 2027.",
+      "destaque": "Anime em 2027",
+      "sub": "Teenage Mercenary",
+      "tamanho": 160,
+      "imagem": "img/008_teenage_mercenary_anime/04_pv_frame.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Aos oito anos, Yu Ijin foi o único sobrevivente de um acidente de avião, e virou mercenário num país estrangeiro.",
+      "destaque": "Único sobrevivente",
+      "sub": "Yu Ijin",
+      "tamanho": 140,
+      "imagem": "img/008_teenage_mercenary_anime/02_kv_anime.jpg",
+      "foco": 0.25
+    },
+    {
+      "fala": "Dez anos depois, ele volta pra Coreia e entra no colégio da irmã mais nova, a Dayun.",
+      "destaque": "De volta ao colégio",
+      "tamanho": 140,
+      "imagem": "img/008_teenage_mercenary_anime/01_poster_webtoon.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Valentões, gangues, crime organizado: ele enfrenta tudo pra proteger a irmã.",
+      "destaque": "Ninguém mexe com a irmã",
+      "tamanho": 130,
+      "imagem": "img/008_teenage_mercenary_anime/02_kv_anime.jpg",
+      "foco": 0.75
+    },
+    {
+      "fala": "Quem anima é o estúdio J.C.Staff, com música de Hiroyuki Sawano. O anúncio saiu no painel da Crunchyroll na New York Comic Con.",
+      "destaque": "Estúdio J.C.Staff",
+      "sub": "Música de Hiroyuki Sawano",
+      "tamanho": 140,
+      "imagem": "img/008_teenage_mercenary_anime/04_pv_frame.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "O webtoon é de YC e Rakyeon, com mais de um bilhão e oitocentos milhões de visualizações.",
+      "destaque": "1,8 bilhão de views",
+      "sub": "YC e Rakyeon",
+      "tamanho": 140,
+      "imagem": "img/008_teenage_mercenary_anime/01_poster_webtoon.jpg",
+      "foco": 0.2
+    },
+    {
+      "fala": "A data exata ainda não saiu. Já leu? Comenta e segue o canal.",
+      "destaque": "Já leu?",
+      "sub": "Comenta aí",
+      "tamanho": 170
+    }
+  ],
+  "thumb": "Teenage Mercenary vira anime",
+  "thumb_sub": "Estreia em 2027",
+  "thumb_imagem": "img/008_teenage_mercenary_anime/02_kv_anime.jpg",
+  "thumb_foco": 0.25,
+  "titulo": "Teenage Mercenary vira ANIME em 2027 🔫 #manhwa #anime",
+  "descricao": "Teenage Mercenary, webtoon de YC e Rakyeon, vai virar anime em 2027! Produção do estúdio J.C.Staff, direção de Manabu Ono e música de Hiroyuki Sawano, anunciado no painel da Crunchyroll na New York Comic Con 2026. A data exata ainda não foi divulgada.\n\nVocê já leu Teenage Mercenary? Comenta aí 👇\n\n#manhwa #teenagemercenary #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "teenage mercenary",
+    "teenage mercenary anime",
+    "mercenary enrollment",
+    "yu ijin",
+    "anime 2027",
+    "webtoon",
+    "crunchyroll",
+    "jc staff"
+  ],
+  "fontes_imagens": {
+    "01_poster_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/teenage-mercenary/list?title_no=2677",
+    "02_kv_anime.jpg": "Key visual oficial do anime - teenagemercenary-anime.com (assets/img/top/kv01.jpg)",
+    "04_pv_frame.jpg": "Miniatura do PV oficial no site do anime - teenagemercenary-anime.com (assets/img/movie/thum01.jpg)"
+  }
+}

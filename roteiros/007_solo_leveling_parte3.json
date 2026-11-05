@@ -1,0 +1,83 @@
+{
+  "tag": "HISTÓRIA MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Ele abriu uma masmorra onde só ele podia entrar. Solo Leveling, parte três, sem spoiler do final.",
+      "destaque": "A masmorra secreta",
+      "sub": "Solo Leveling • Parte 3",
+      "tamanho": 140,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 3
+    },
+    {
+      "fala": "A chave do Sistema abre uma masmorra instantânea, com um lobo mais forte que tudo que o Jinwoo já enfrentou.",
+      "destaque": "Um lobo diferente",
+      "tamanho": 150,
+      "imagem": "img/007_solo_leveling_parte3/03_titulo_capa.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Ele vence, sobe de nível e derrota até o chefe.",
+      "destaque": "Subindo de nível",
+      "tamanho": 150,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 32
+    },
+    {
+      "fala": "Depois, entra no grupo do caçador rank C Hwang Dongsuk. Mas o contrato diz que ele não luta e não fica com nada.",
+      "destaque": "Um contrato estranho",
+      "sub": "Hwang Dongsuk",
+      "tamanho": 140,
+      "imagem": "img/007_solo_leveling_parte3/02_jinwoo_capa.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Com eles está Yoo Jinho, um rank D estreante. No fundo da masmorra, uma aranha gigante dorme ao lado de cristais valiosos.",
+      "destaque": "A aranha gigante",
+      "sub": "Yoo Jinho",
+      "tamanho": 150,
+      "imagem": "img/007_solo_leveling_parte3/01_capa_tapas.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Aí vem a traição: o grupo tranca Jinwoo e Jinho na sala do chefe, e acorda a aranha.",
+      "destaque": "Traídos",
+      "tamanho": 190,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 36
+    },
+    {
+      "fala": "E o que o Jinwoo faz depois muda tudo. Quer a parte quatro? Comenta e segue o canal.",
+      "destaque": "Quer a parte 4?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "Traído na masmorra",
+  "thumb_sub": "Solo Leveling • Parte 3",
+  "thumb_imagem": "img/007_solo_leveling_parte3/02_jinwoo_capa.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "TRAÍDO dentro da masmorra 🕷️ Solo Leveling Parte 3 #manhwa #anime",
+  "descricao": "A história de Solo Leveling, parte 3 (sem spoiler do final): Sung Jinwoo usa a chave da masmorra instantânea, enfrenta um lobo poderoso e sobe de nível. Depois entra no grupo do caçador rank C Hwang Dongsuk, conhece Yoo Jinho e é traído na sala do chefe, diante de uma aranha gigante.\n\nSolo Leveling: web novel de Chugong, webtoon de Dubu (Redice Studio), anime do A-1 Pictures na Crunchyroll.\n\nQuer a parte 4? Comenta aí 👇\n\n#manhwa #sololeveling #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "solo leveling",
+    "solo leveling historia",
+    "solo leveling parte 3",
+    "sung jinwoo",
+    "yoo jinho",
+    "anime",
+    "webtoon",
+    "crunchyroll",
+    "resumo manhwa",
+    "historia de manhwa"
+  ],
+  "fontes_imagens": {
+    "01_capa_tapas.jpg": "Banner oficial do webtoon na Tapas - tapas.io/series/solo-leveling-comic/info",
+    "02_jinwoo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "03_titulo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "videos/solo_leveling/pv_s2_lisa.mp4": "PV oficial da 2a temporada (abertura LiSA), publicado por @sololeveling_pr - x.com/sololeveling_pr/status/1861787313740656651 (sem áudio)"
+  }
+}
