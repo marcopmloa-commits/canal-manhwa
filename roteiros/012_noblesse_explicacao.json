@@ -1,0 +1,83 @@
+{
+  "tag": "MANHWA EXPLICA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Ele dormiu por oitocentos e vinte anos, e acordou direto num colégio coreano. Essa é Noblesse.",
+      "destaque": "820 anos dormindo",
+      "sub": "Noblesse",
+      "tamanho": 150,
+      "imagem": "img/012_noblesse_explicacao/02_kv_anime.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Noblesse é o webtoon de Son Jeho e Lee Kwangsu, publicado no Naver Webtoon de 2007 a 2019.",
+      "destaque": "De 2007 a 2019",
+      "sub": "Son Jeho e Lee Kwangsu",
+      "tamanho": 150,
+      "imagem": "img/012_noblesse_explicacao/01_poster_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "O protagonista é o Rai, um Noblesse, um ser de poder absoluto, da raça dos Nobres, que no passado protegia os humanos.",
+      "destaque": "Poder absoluto",
+      "sub": "Cadis Etrama Di Raizel",
+      "tamanho": 150,
+      "imagem": "img/012_noblesse_explicacao/03_rai_anime.jpg",
+      "foco": 0.0
+    },
+    {
+      "fala": "Ao acordar, ele entra no colégio Ye Ran, onde o diretor é o fiel servo dele, Frankenstein.",
+      "destaque": "Colégio Ye Ran",
+      "tamanho": 160,
+      "imagem": "img/012_noblesse_explicacao/05_ep1_still.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Só que uma organização secreta começa a ameaçar ele e os novos amigos.",
+      "destaque": "Uma ameaça secreta",
+      "tamanho": 150,
+      "imagem": "img/012_noblesse_explicacao/06_ep2_still.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Em 2020, virou anime da Production I.G, com treze episódios na Crunchyroll. E o roteirista é o mesmo de Eleceed.",
+      "destaque": "Anime em 2020",
+      "sub": "Production I.G",
+      "tamanho": 160,
+      "imagem": "img/012_noblesse_explicacao/02_kv_anime.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Já conhecia Noblesse? Comenta e segue o canal.",
+      "destaque": "Já conhecia?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "Dormiu 820 anos",
+  "thumb_sub": "O que é Noblesse",
+  "thumb_imagem": "img/012_noblesse_explicacao/01_poster_webtoon.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "Ele dormiu 820 ANOS 🧛 O que é Noblesse? #manhwa #anime",
+  "descricao": "Noblesse em poucos segundos: webtoon de Son Jeho e Lee Kwangsu, publicado no Naver Webtoon de 2007 a 2019. Cadis Etrama Di Raizel, um Noblesse, acorda depois de 820 anos e entra no colégio Ye Ran, onde o diretor é seu servo Frankenstein. Anime da Production I.G em 2020 (13 episódios, Crunchyroll).\n\nJá conhecia Noblesse? Comenta aí 👇\n\n#manhwa #noblesse #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "noblesse",
+    "noblesse explicado",
+    "raizel",
+    "frankenstein noblesse",
+    "anime",
+    "webtoon",
+    "crunchyroll",
+    "manhwa curiosidades"
+  ],
+  "fontes_imagens": {
+    "01_poster_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/noblesse/list?title_no=87",
+    "02_kv_anime.jpg": "Recorte do visual oficial (OGP) do anime - noblesse-anime.com/assets/img/ogp3.jpg",
+    "03_rai_anime.jpg": "Arte de personagem oficial (Raizel) - noblesse-anime.com/assets/img/character/chara01_full.png",
+    "05_ep1_still.jpg": "Imagem oficial do episódio 1 - noblesse-anime.com/assets/img/story/01_1.jpg",
+    "06_ep2_still.jpg": "Imagem oficial do episódio 2 - noblesse-anime.com/assets/img/story/02_1.jpg"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "tag": "HISTÓRIA MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Trancado com uma aranha gigante, e traído pelo próprio grupo. Solo Leveling, parte quatro, sem spoiler do final.",
+      "destaque": "Preso com o chefe",
+      "sub": "Solo Leveling • Parte 4",
+      "tamanho": 150,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 3
+    },
+    {
+      "fala": "Jinwoo enfrenta o chefe da masmorra e vence. O Jinho não acredita no que vê.",
+      "destaque": "Ele venceu",
+      "tamanho": 170,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 32
+    },
+    {
+      "fala": "Quando o grupo do Dongsuk volta, eles pressionam o Jinho a matar o Jinwoo. Ele se recusa.",
+      "destaque": "O Jinho recusa",
+      "tamanho": 160,
+      "imagem": "img/010_solo_leveling_parte4/01_capa_tapas.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Aí o Sistema dá uma missão: eliminar quem tentou matar ele, ou morrer. E o Jinwoo não hesita.",
+      "destaque": "Missão do Sistema",
+      "tamanho": 150,
+      "imagem": "img/010_solo_leveling_parte4/02_jinwoo_capa.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Depois, o Sistema entrega a chave de uma masmorra rank S. A recompensa é uma poção que cura qualquer doença, e a mãe do Jinwoo está em coma.",
+      "destaque": "A cura da mãe",
+      "sub": "Masmorra rank S",
+      "tamanho": 150,
+      "imagem": "img/010_solo_leveling_parte4/03_titulo_capa.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Mas o guardião é um cérbero que quase mata ele. E o irmão do Dongsuk, um caçador rank S, jura vingança.",
+      "destaque": "Jurado de vingança",
+      "tamanho": 150,
+      "imagem": "img/010_solo_leveling_parte4/01_capa_tapas.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Quer a parte cinco? Comenta e segue o canal.",
+      "destaque": "Quer a parte 5?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "A missão do Sistema",
+  "thumb_sub": "Solo Leveling • Parte 4",
+  "thumb_imagem": "img/010_solo_leveling_parte4/02_jinwoo_capa.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "O Sistema mandou ELIMINAR os traidores ⚔️ Solo Leveling Parte 4 #manhwa #anime",
+  "descricao": "A história de Solo Leveling, parte 4 (sem spoiler do final): Sung Jinwoo vence o chefe da masmorra, Yoo Jinho se recusa a trair ele e o Sistema dá uma missão contra o grupo de Hwang Dongsuk. Depois vem a chave de uma masmorra rank S, com uma poção que pode curar a mãe dele, e a promessa de vingança de um caçador rank S.\n\nSolo Leveling: web novel de Chugong, webtoon de Dubu (Redice Studio), anime do A-1 Pictures na Crunchyroll.\n\nQuer a parte 5? Comenta aí 👇\n\n#manhwa #sololeveling #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "solo leveling",
+    "solo leveling historia",
+    "solo leveling parte 4",
+    "sung jinwoo",
+    "yoo jinho",
+    "hwang dongsuk",
+    "anime",
+    "webtoon",
+    "crunchyroll",
+    "resumo manhwa"
+  ],
+  "fontes_imagens": {
+    "01_capa_tapas.jpg": "Banner oficial do webtoon na Tapas - tapas.io/series/solo-leveling-comic/info",
+    "02_jinwoo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "03_titulo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "videos/solo_leveling/pv_s2_lisa.mp4": "PV oficial da 2a temporada (abertura LiSA), publicado por @sololeveling_pr - x.com/sololeveling_pr/status/1861787313740656651 (sem áudio)"
+  }
+}

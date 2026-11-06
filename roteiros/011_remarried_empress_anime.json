@@ -1,0 +1,83 @@
+{
+  "tag": "MANHWA NEWS",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "The Remarried Empress, um dos webtoons de romance mais lidos do mundo, vai virar anime em 2027.",
+      "destaque": "Anime em 2027",
+      "sub": "The Remarried Empress",
+      "tamanho": 160,
+      "imagem": "img/011_remarried_empress_anime/01_navier_anime.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "A imperatriz Navier governa o Império do Oriente ao lado do marido, o imperador Sovieshu.",
+      "destaque": "A imperatriz Navier",
+      "tamanho": 140,
+      "imagem": "img/011_remarried_empress_anime/03_sovieshu_anime.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Até que ele se apaixona por outra e pede o divórcio. Ela aceita, e pede pra se casar de novo, com Heinrey, príncipe do Império do Ocidente.",
+      "destaque": "Divórcio aceito",
+      "sub": "E um novo casamento",
+      "tamanho": 150,
+      "imagem": "img/011_remarried_empress_anime/02_heinrey_anime.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "O anime é do estúdio TROYCA, com direção de Tetsuya Yanagisawa, e foi anunciado no painel da Crunchyroll na New York Comic Con.",
+      "destaque": "Estúdio TROYCA",
+      "tamanho": 160,
+      "imagem": "img/011_remarried_empress_anime/05_cena_oficial.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "A obra vem do romance de Alphatart, com arte de Sumpul, e já soma quase três bilhões de visualizações.",
+      "destaque": "Quase 3 bilhões de views",
+      "tamanho": 130,
+      "imagem": "img/011_remarried_empress_anime/01_navier_anime.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "E tem mais: a série live-action, com Shin Min-a, Ju Ji-hoon e Lee Jong-suk, acabou de estrear no Disney+.",
+      "destaque": "Série no Disney+",
+      "sub": "Live-action",
+      "tamanho": 150,
+      "imagem": "img/011_remarried_empress_anime/03_sovieshu_anime.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Você vai assistir? Comenta e segue o canal.",
+      "destaque": "Vai assistir?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "Remarried Empress vira anime",
+  "thumb_sub": "Estreia em 2027",
+  "thumb_imagem": "img/011_remarried_empress_anime/01_navier_anime.jpg",
+  "thumb_foco": 0.4,
+  "titulo": "The Remarried Empress vira ANIME em 2027 👑 #manhwa #anime",
+  "descricao": "The Remarried Empress vai virar anime em 2027! Produção do estúdio TROYCA, direção de Tetsuya Yanagisawa, anunciado no painel da Crunchyroll na New York Comic Con 2026. A obra é baseada no romance de Alphatart, com arte de Sumpul, e já passa de 2,9 bilhões de visualizações. A série live-action com Shin Min-a, Ju Ji-hoon e Lee Jong-suk acabou de estrear no Disney+.\n\nVocê vai assistir? Comenta aí 👇\n\n#manhwa #theremarriedempress #anime #webtoon #disneyplus",
+  "tags": [
+    "manhwa",
+    "the remarried empress",
+    "remarried empress anime",
+    "navier",
+    "heinrey",
+    "anime 2027",
+    "webtoon",
+    "troyca",
+    "disney plus",
+    "dorama"
+  ],
+  "fontes_imagens": {
+    "01_navier_anime.jpg": "Arte de personagem oficial - saikon-anime.com (images/character/character-navier-840.webp)",
+    "02_heinrey_anime.jpg": "Arte de personagem oficial - saikon-anime.com (character-heinrey-840.webp)",
+    "03_sovieshu_anime.jpg": "Arte de personagem oficial - saikon-anime.com (character-sovieshu-840.webp)",
+    "04_ogp_anime.jpg": "Visual oficial (OGP) - saikon-anime.com/ogp.jpg",
+    "05_cena_oficial.jpg": "Cenário oficial - saikon-anime.com (images/footer/closing-scene.webp)"
+  }
+}
