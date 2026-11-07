@@ -1,0 +1,81 @@
+{
+  "tag": "MANHWA EXPLICA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Um aluno que apanhava na escola aprendeu a lutar vendo vídeos, e ficou famoso. Essa é Viral Hit.",
+      "destaque": "Aprendeu a lutar no vídeo",
+      "sub": "Viral Hit",
+      "tamanho": 130,
+      "imagem": "img/015_viral_hit_explicacao/03_kv_anime_fujitv.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "É o webtoon de Taejun Pak, criador de Lookism, com arte de Kim Junghyun, no Naver Webtoon desde 2019.",
+      "destaque": "Do criador de Lookism",
+      "sub": "Taejun Pak e Kim Junghyun",
+      "tamanho": 130,
+      "imagem": "img/015_viral_hit_explicacao/01_poster_webtoon.jpg",
+      "foco": 0.25
+    },
+    {
+      "fala": "O protagonista é o Yoo Hobin, um estudante que sofre bullying e tem a mãe doente de câncer.",
+      "destaque": "Yoo Hobin",
+      "tamanho": 180,
+      "imagem": "img/015_viral_hit_explicacao/02_thumb_webtoon.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Depois que uma briga com um valentão viraliza, ele abre um canal no NewTube e passa a enfrentar valentões por dinheiro.",
+      "destaque": "Lutas viralizadas",
+      "tamanho": 150,
+      "imagem": "img/015_viral_hit_explicacao/01_poster_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Em 2024 virou anime, com doze episódios, direção de Masakazu Hishida, e exibição na Crunchyroll.",
+      "destaque": "Anime em 2024",
+      "sub": "12 episódios",
+      "tamanho": 160,
+      "imagem": "img/015_viral_hit_explicacao/03_kv_anime_fujitv.jpg",
+      "foco": 0.8
+    },
+    {
+      "fala": "E em 2026 ganhou uma série live-action japonesa na Netflix.",
+      "destaque": "Série na Netflix",
+      "sub": "Live-action",
+      "tamanho": 150,
+      "imagem": "img/015_viral_hit_explicacao/02_thumb_webtoon.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Já leu Viral Hit? Comenta e segue o canal.",
+      "destaque": "Já leu?",
+      "sub": "Comenta aí",
+      "tamanho": 170
+    }
+  ],
+  "thumb": "Aprendeu a lutar no vídeo",
+  "thumb_sub": "O que é Viral Hit",
+  "thumb_imagem": "img/015_viral_hit_explicacao/01_poster_webtoon.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "Aprendeu a LUTAR vendo vídeo 👊 O que é Viral Hit? #manhwa #anime",
+  "descricao": "Viral Hit em poucos segundos: webtoon de Taejun Pak (criador de Lookism) com arte de Kim Junghyun, no Naver Webtoon desde 2019. Yoo Hobin sofre bullying, viraliza numa briga e passa a enfrentar valentões no NewTube. Anime em 2024 (12 episódios, direção de Masakazu Hishida, Crunchyroll) e série live-action japonesa na Netflix em 2026.\n\nJá leu Viral Hit? Comenta aí 👇\n\n#manhwa #viralhit #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "viral hit",
+    "viral hit explicado",
+    "yoo hobin",
+    "taejun pak",
+    "anime",
+    "webtoon",
+    "crunchyroll",
+    "netflix"
+  ],
+  "fontes_imagens": {
+    "01_poster_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/viral-hit/list?title_no=2268",
+    "02_thumb_webtoon.jpg": "Miniatura oficial na WEBTOON (mesma página)",
+    "03_kv_anime_fujitv.jpg": "Recorte do visual oficial do anime na página da Fuji TV - fujitv.co.jp/bangumi/basic/logo/photo/424000005.jpg"
+  }
+}

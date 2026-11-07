@@ -1,0 +1,81 @@
+{
+  "tag": "RANKING MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Esses três manhwas viraram séries de sucesso. Você conhece todos?",
+      "destaque": "Viraram série",
+      "sub": "Top 3",
+      "tamanho": 160,
+      "imagem": "img/014_ranking_manhwas_viraram_serie/02_sweet_home_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Número três: True Beauty. O webtoon da Yaongyi virou série da tvN em 2020, com Moon Ga-young e Cha Eun-woo.",
+      "destaque": "#3 True Beauty",
+      "sub": "tvN • 2020",
+      "tamanho": 160,
+      "imagem": "img/014_ranking_manhwas_viraram_serie/01_true_beauty_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Uma estudante que sofria bullying pela aparência aprende a se maquiar, e muda tudo.",
+      "destaque": "A virada",
+      "tamanho": 170,
+      "imagem": "img/014_ranking_manhwas_viraram_serie/01_true_beauty_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Número dois: Hellbound. O webtoon de Yeon Sang-ho e Choi Gyu-seok virou série da Netflix em 2021.",
+      "destaque": "#2 Hellbound",
+      "sub": "Netflix • 2021",
+      "tamanho": 160,
+      "imagem": "img/014_ranking_manhwas_viraram_serie/03_hellbound_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Nela, profecias anunciam quem vai ser arrastado pro inferno por seres misteriosos.",
+      "destaque": "Profecias",
+      "tamanho": 170,
+      "imagem": "img/014_ranking_manhwas_viraram_serie/03_hellbound_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Número um: Sweet Home. O webtoon de Kim Carnby e Hwang Young-chan virou série da Netflix com três temporadas, de 2020 a 2024.",
+      "destaque": "#1 Sweet Home",
+      "sub": "Netflix • 3 temporadas",
+      "tamanho": 160,
+      "imagem": "img/014_ranking_manhwas_viraram_serie/02_sweet_home_webtoon.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Qual desses você já viu? Comenta e segue o canal.",
+      "destaque": "Qual você viu?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "3 manhwas que viraram série",
+  "thumb_sub": "Ranking",
+  "thumb_imagem": "img/014_ranking_manhwas_viraram_serie/02_sweet_home_webtoon.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "3 MANHWAS que viraram SÉRIE 📺 Ranking #manhwa #dorama",
+  "descricao": "Ranking: True Beauty (webtoon de Yaongyi, série da tvN, 2020–2021), Hellbound (webtoon de Yeon Sang-ho e Choi Gyu-seok, série da Netflix, 2021) e Sweet Home (webtoon de Kim Carnby e Hwang Young-chan, série da Netflix com 3 temporadas, 2020–2024).\n\nQual desses você já viu? Comenta aí 👇\n\n#manhwa #truebeauty #hellbound #sweethome #netflix #dorama",
+  "tags": [
+    "manhwa",
+    "ranking manhwa",
+    "manhwa que virou serie",
+    "true beauty",
+    "hellbound",
+    "sweet home",
+    "netflix",
+    "dorama",
+    "webtoon"
+  ],
+  "fontes_imagens": {
+    "01_true_beauty_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/romance/truebeauty/list?title_no=1436",
+    "02_sweet_home_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/thriller/sweethome/list?title_no=1285",
+    "03_hellbound_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/thriller/hellbound/list?title_no=3598"
+  }
+}

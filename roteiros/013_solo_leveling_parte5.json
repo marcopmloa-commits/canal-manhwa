@@ -1,0 +1,81 @@
+{
+  "tag": "HISTÓRIA MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "O caçador que devia proteger o grupo virou o maior perigo. Solo Leveling, parte cinco, sem spoiler do final.",
+      "destaque": "O protetor virou ameaça",
+      "sub": "Solo Leveling • Parte 5",
+      "tamanho": 130,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 3
+    },
+    {
+      "fala": "Jinwoo visita a mãe no hospital, e decide: vai ficar forte o bastante pra salvar ela.",
+      "destaque": "Pela mãe",
+      "tamanho": 180,
+      "imagem": "img/013_solo_leveling_parte5/02_jinwoo_capa.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Pra entrar numa masmorra rank C, a Associação junta os sobreviventes da masmorra dupla e três presos, vigiados pelo caçador rank B Kang Taeshik.",
+      "destaque": "Kang Taeshik",
+      "sub": "Caçador rank B",
+      "tamanho": 160,
+      "imagem": "img/013_solo_leveling_parte5/03_titulo_capa.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Só que o Kang foi pago pra se livrar dos presos. E ele não deixa testemunhas.",
+      "destaque": "Sem testemunhas",
+      "tamanho": 150,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 32
+    },
+    {
+      "fala": "Aí o Jinwoo mostra o novo poder pela primeira vez, e derrota ele. O senhor Song diz à Associação que foi ele, pra proteger o Jinwoo.",
+      "destaque": "O poder revelado",
+      "tamanho": 150,
+      "imagem": "img/013_solo_leveling_parte5/01_capa_tapas.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Depois, o Jinwoo chega ao nível certo, e o Sistema oferece uma missão de mudança de classe.",
+      "destaque": "Mudança de classe",
+      "tamanho": 150,
+      "imagem": "img/013_solo_leveling_parte5/02_jinwoo_capa.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Quer a parte seis? Comenta e segue o canal.",
+      "destaque": "Quer a parte 6?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "O protetor virou ameaça",
+  "thumb_sub": "Solo Leveling • Parte 5",
+  "thumb_imagem": "img/013_solo_leveling_parte5/02_jinwoo_capa.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "O caçador que devia PROTEGER virou ameaça 😨 Solo Leveling Parte 5 #manhwa #anime",
+  "descricao": "A história de Solo Leveling, parte 5 (sem spoiler do final): Sung Jinwoo decide ficar forte para salvar a mãe, entra numa masmorra rank C com presos vigiados pelo caçador rank B Kang Taeshik, revela o novo poder pela primeira vez e recebe do Sistema a missão de mudança de classe.\n\nSolo Leveling: web novel de Chugong, webtoon de Dubu (Redice Studio), anime do A-1 Pictures na Crunchyroll.\n\nQuer a parte 6? Comenta aí 👇\n\n#manhwa #sololeveling #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "solo leveling",
+    "solo leveling historia",
+    "solo leveling parte 5",
+    "sung jinwoo",
+    "kang taeshik",
+    "anime",
+    "webtoon",
+    "crunchyroll",
+    "resumo manhwa"
+  ],
+  "fontes_imagens": {
+    "01_capa_tapas.jpg": "Banner oficial do webtoon na Tapas - tapas.io/series/solo-leveling-comic/info",
+    "02_jinwoo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "03_titulo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "videos/solo_leveling/pv_s2_lisa.mp4": "PV oficial da 2a temporada (abertura LiSA), publicado por @sololeveling_pr - x.com/sololeveling_pr/status/1861787313740656651 (sem áudio)"
+  }
+}
