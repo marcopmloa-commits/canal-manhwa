@@ -1,0 +1,81 @@
+{
+  "tag": "HISTÓRIA MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Jinwoo foi mandado sozinho pra um castelo cheio de cavaleiros. Solo Leveling, parte seis, sem spoiler do final.",
+      "destaque": "O castelo",
+      "sub": "Solo Leveling • Parte 6",
+      "tamanho": 180,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 3
+    },
+    {
+      "fala": "É a missão de mudança de classe: ondas de cavaleiros, assassinos e magos.",
+      "destaque": "Ondas de inimigos",
+      "tamanho": 150,
+      "video": "videos/solo_leveling/pv_s2_lisa.mp4",
+      "video_inicio": 32
+    },
+    {
+      "fala": "Até que surge Igris, o cavaleiro vermelho-sangue, tão forte quanto ele. Jinwoo vence por pouco.",
+      "destaque": "Igris",
+      "sub": "O cavaleiro vermelho-sangue",
+      "tamanho": 190,
+      "imagem": "img/016_solo_leveling_parte6/01_capa_tapas.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Mas aí a missão de verdade começa: uma horda sem fim de inimigos.",
+      "destaque": "Uma horda sem fim",
+      "tamanho": 150,
+      "imagem": "img/016_solo_leveling_parte6/03_titulo_capa.jpg",
+      "foco": 0.5
+    },
+    {
+      "fala": "Sem esperança, ele esquece a missão diária, vai pra zona de penalidade e se recupera lá.",
+      "destaque": "A penalidade salvou",
+      "tamanho": 140,
+      "imagem": "img/016_solo_leveling_parte6/02_jinwoo_capa.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Ele volta, vence a horda e vira o Monarca das Sombras, capaz de reviver os mortos como soldados. Inclusive o Igris.",
+      "destaque": "Monarca das Sombras",
+      "tamanho": 140,
+      "imagem": "img/016_solo_leveling_parte6/02_jinwoo_capa.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Levante-se! Assim termina a primeira temporada do anime. Comenta e segue o canal.",
+      "destaque": "Levante-se",
+      "sub": "Comenta aí",
+      "tamanho": 170
+    }
+  ],
+  "thumb": "Monarca das Sombras",
+  "thumb_sub": "Solo Leveling • Parte 6",
+  "thumb_imagem": "img/016_solo_leveling_parte6/02_jinwoo_capa.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "Ele virou o MONARCA DAS SOMBRAS 👑 Solo Leveling Parte 6 #manhwa #anime",
+  "descricao": "A história de Solo Leveling, parte 6 (sem spoiler do final): na missão de mudança de classe, Sung Jinwoo enfrenta Igris, o cavaleiro vermelho-sangue, sobrevive a uma horda sem fim e ganha o título de Monarca das Sombras, com o poder de criar um exército de sombras. É o ponto em que termina a primeira temporada do anime.\n\nSolo Leveling: web novel de Chugong, webtoon de Dubu (Redice Studio), anime do A-1 Pictures na Crunchyroll.\n\nQuer mais? Comenta aí 👇\n\n#manhwa #sololeveling #anime #webtoon #crunchyroll",
+  "tags": [
+    "manhwa",
+    "solo leveling",
+    "solo leveling historia",
+    "solo leveling parte 6",
+    "sung jinwoo",
+    "igris",
+    "monarca das sombras",
+    "arise",
+    "anime",
+    "crunchyroll"
+  ],
+  "fontes_imagens": {
+    "01_capa_tapas.jpg": "Banner oficial do webtoon na Tapas - tapas.io/series/solo-leveling-comic/info",
+    "02_jinwoo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "03_titulo_capa.jpg": "Recorte do mesmo banner oficial da Tapas",
+    "videos/solo_leveling/pv_s2_lisa.mp4": "PV oficial da 2a temporada (abertura LiSA), publicado por @sololeveling_pr - x.com/sololeveling_pr/status/1861787313740656651 (sem áudio)"
+  }
+}

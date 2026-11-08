@@ -1,0 +1,82 @@
+{
+  "tag": "RANKING MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Curte luta com artes marciais? Aqui vão três manhwas de murim pra ler agora.",
+      "destaque": "Top 3 murim",
+      "sub": "Artes marciais",
+      "tamanho": 170,
+      "imagem": "img/017_ranking_murim/01_blossoming_blade_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Número três: The Breaker: Eternal Force. Um aluno que sofre bullying conhece um veterano que é um dos mais fortes do murim.",
+      "destaque": "#3 The Breaker",
+      "sub": "Eternal Force",
+      "tamanho": 160,
+      "imagem": "img/017_ranking_murim/03_breaker_eternal_force_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "É a continuação do clássico The Breaker.",
+      "destaque": "Um clássico",
+      "tamanho": 170,
+      "imagem": "img/017_ranking_murim/03_breaker_eternal_force_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Número dois: Nano Machine. Yeo-un disputa um cargo contra meio-irmãos poderosos, e recebe nanomáquinas de um descendente do futuro.",
+      "destaque": "#2 Nano Machine",
+      "sub": "Tecnologia do futuro",
+      "tamanho": 150,
+      "imagem": "img/017_ranking_murim/02_nano_machine_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Número um: Return of the Blossoming Blade. Cheongmyeong, lendário espadachim do Monte Hua, morre lutando contra o líder do Culto Demoníaco.",
+      "destaque": "#1 Blossoming Blade",
+      "sub": "Monte Hua",
+      "tamanho": 140,
+      "imagem": "img/017_ranking_murim/01_blossoming_blade_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Cem anos depois, ele renasce aos quinze anos, pra reerguer a sua seita.",
+      "destaque": "Cem anos depois",
+      "tamanho": 160,
+      "imagem": "img/017_ranking_murim/01_blossoming_blade_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Qual desses você já leu? Comenta e segue o canal.",
+      "destaque": "Qual você leu?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "3 manhwas de murim",
+  "thumb_sub": "Ranking",
+  "thumb_imagem": "img/017_ranking_murim/02_nano_machine_webtoon.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "3 MANHWAS de artes marciais pra ler AGORA 🥋 Ranking #manhwa #murim",
+  "descricao": "Ranking de murim: The Breaker: Eternal Force (continuação de The Breaker, de Jeon Geuk-jin e Park Jin-hwan), Nano Machine e Return of the Blossoming Blade (Return of the Mount Hua Sect, do romance de Biga).\n\nQual desses você já leu? Comenta aí 👇\n\n#manhwa #murim #nanomachine #thebreaker #returnofthemounthuasect #webtoon",
+  "tags": [
+    "manhwa",
+    "murim",
+    "manhwa de artes marciais",
+    "ranking manhwa",
+    "nano machine",
+    "the breaker",
+    "the breaker eternal force",
+    "return of the mount hua sect",
+    "return of the blossoming blade",
+    "webtoon"
+  ],
+  "fontes_imagens": {
+    "01_blossoming_blade_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/return-of-the-blossoming-blade/list?title_no=2849",
+    "02_nano_machine_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/nano-machine/list?title_no=4344",
+    "03_breaker_eternal_force_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/the-breaker-eternal-force/list?title_no=4501"
+  }
+}

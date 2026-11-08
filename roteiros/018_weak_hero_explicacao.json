@@ -1,0 +1,82 @@
+{
+  "tag": "MANHWA EXPLICA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Ele é pequeno, magro e o melhor aluno da sala. E mesmo assim derruba os valentões da escola. Esse é Weak Hero.",
+      "destaque": "O herói fraco",
+      "sub": "Weak Hero",
+      "tamanho": 170,
+      "imagem": "img/018_weak_hero_explicacao/01_poster_webtoon.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "O webtoon é de Seopass e Razen, publicado no Naver desde 2018.",
+      "destaque": "Desde 2018",
+      "sub": "Seopass e Razen",
+      "tamanho": 170,
+      "imagem": "img/018_weak_hero_explicacao/02_square_webtoon.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "O protagonista é Yeon Si-eun, que na versão em inglês se chama Gray. Ele só liga pra estudar.",
+      "destaque": "Yeon Si-eun",
+      "sub": "Gray, em inglês",
+      "tamanho": 170,
+      "imagem": "img/018_weak_hero_explicacao/03_gray_recorte_poster.jpg",
+      "foco": 0.0
+    },
+    {
+      "fala": "Fisicamente fraco, ele luta usando a inteligência e o que tiver ao redor.",
+      "destaque": "Luta com a cabeça",
+      "tamanho": 160,
+      "imagem": "img/018_weak_hero_explicacao/01_poster_webtoon.jpg",
+      "foco": 0.8
+    },
+    {
+      "fala": "Em 2022 virou série live-action, com Park Ji-hoon no papel principal.",
+      "destaque": "Série em 2022",
+      "sub": "Park Ji-hoon",
+      "tamanho": 170,
+      "imagem": "img/018_weak_hero_explicacao/02_square_webtoon.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "E a segunda temporada estreou na Netflix em 2025.",
+      "destaque": "Na Netflix",
+      "sub": "2ª temporada",
+      "tamanho": 170,
+      "imagem": "img/018_weak_hero_explicacao/03_gray_recorte_poster.jpg",
+      "foco": 0.0
+    },
+    {
+      "fala": "Já conhecia Weak Hero? Comenta e segue o canal.",
+      "destaque": "Já conhecia?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "O herói mais fraco",
+  "thumb_sub": "O que é Weak Hero",
+  "thumb_imagem": "img/018_weak_hero_explicacao/01_poster_webtoon.jpg",
+  "thumb_foco": 0.4,
+  "titulo": "O aluno mais FRACO derruba os valentões 🧠 O que é Weak Hero? #manhwa #dorama",
+  "descricao": "Weak Hero em poucos segundos: webtoon de Seopass e Razen, no Naver desde 2018. Yeon Si-eun (Gray, na versão em inglês) é um dos melhores alunos da sala e, mesmo fisicamente fraco, enfrenta os valentões com inteligência. Virou série live-action em 2022, com Park Ji-hoon, e a segunda temporada estreou na Netflix em 2025.\n\nJá conhecia Weak Hero? Comenta aí 👇\n\n#manhwa #weakhero #webtoon #netflix #dorama",
+  "tags": [
+    "manhwa",
+    "weak hero",
+    "weak hero explicado",
+    "gray yeon",
+    "yeon si eun",
+    "park ji hoon",
+    "webtoon",
+    "netflix",
+    "dorama"
+  ],
+  "fontes_imagens": {
+    "01_poster_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/action/weakhero/list?title_no=1726",
+    "02_square_webtoon.jpg": "Miniatura oficial na WEBTOON (mesma página)",
+    "03_gray_recorte_poster.jpg": "Recorte do pôster oficial na WEBTOON"
+  }
+}
