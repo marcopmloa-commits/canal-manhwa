@@ -1,0 +1,80 @@
+{
+  "tag": "MANHWA EXPLICA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "E se você pudesse ver as células que controlam o que você sente? Essa é Yumi's Cells.",
+      "destaque": "As células da Yumi",
+      "sub": "Yumi's Cells",
+      "tamanho": 150,
+      "imagem": "img/021_yumis_cells_explicacao/01_poster_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "O webtoon é de Lee Dong-gun, publicado no Naver de 2015 a 2020, e passou de três bilhões de visualizações.",
+      "destaque": "3 bilhões de views",
+      "sub": "Lee Dong-gun",
+      "tamanho": 150,
+      "imagem": "img/021_yumis_cells_explicacao/02_square_webtoon.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "A Yumi é uma funcionária de escritório comum. A graça é que a história é contada pelas células dentro da cabeça dela.",
+      "destaque": "Dentro da cabeça",
+      "tamanho": 160,
+      "imagem": "img/021_yumis_cells_explicacao/03_poster_recorte.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "São elas que controlam os pensamentos, os sentimentos e as ações da Yumi.",
+      "destaque": "Quem manda é a célula",
+      "tamanho": 140,
+      "imagem": "img/021_yumis_cells_explicacao/02_square_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Em 2021 virou série, com Kim Go-eun no papel da Yumi, no TVING e na tvN.",
+      "destaque": "Virou série",
+      "sub": "Kim Go-eun",
+      "tamanho": 170,
+      "imagem": "img/021_yumis_cells_explicacao/01_poster_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "E a terceira temporada saiu agora em 2026.",
+      "destaque": "3ª temporada",
+      "sub": "2026",
+      "tamanho": 170,
+      "imagem": "img/021_yumis_cells_explicacao/03_poster_recorte.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Já conhecia Yumi's Cells? Comenta e segue o canal.",
+      "destaque": "Já conhecia?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "As células da Yumi",
+  "thumb_sub": "O que é Yumi's Cells",
+  "thumb_imagem": "img/021_yumis_cells_explicacao/01_poster_webtoon.jpg",
+  "thumb_foco": 0.3,
+  "titulo": "As CÉLULAS que mandam na sua cabeça 🧠 O que é Yumi's Cells? #manhwa #dorama",
+  "descricao": "Yumi's Cells em poucos segundos: webtoon de Lee Dong-gun, publicado no Naver de 2015 a 2020, com mais de 3 bilhões de visualizações. A vida de Yumi é contada pelas células que controlam os pensamentos, sentimentos e ações dela. Virou série com Kim Go-eun (TVING/tvN), com a 3ª temporada em 2026.\n\nJá conhecia Yumi's Cells? Comenta aí 👇\n\n#manhwa #yumiscells #dorama #webtoon #kdrama",
+  "tags": [
+    "manhwa",
+    "yumi's cells",
+    "yumis cells",
+    "kim go eun",
+    "dorama",
+    "kdrama",
+    "webtoon",
+    "manhwa curiosidades"
+  ],
+  "fontes_imagens": {
+    "01_poster_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/slice-of-life/yumi-cell/list?title_no=478",
+    "02_square_webtoon.jpg": "Miniatura oficial na WEBTOON (mesma página)",
+    "03_poster_recorte.jpg": "Recorte do pôster oficial na WEBTOON"
+  }
+}

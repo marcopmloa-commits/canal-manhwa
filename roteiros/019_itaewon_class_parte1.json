@@ -1,0 +1,86 @@
+{
+  "tag": "HISTÓRIA MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Ele perdeu tudo pra um herdeiro rico, e jurou vingança. Essa é Itaewon Class, parte um, sem spoiler do final.",
+      "destaque": "Jurou vingança",
+      "sub": "Itaewon Class • Parte 1",
+      "tamanho": 160,
+      "imagem": "img/019_itaewon_class_parte1/02_capa_tapas.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "O webtoon é de Kwang Jin, e em 2020 virou série da JTBC, com Park Seo-joon, também na Netflix.",
+      "destaque": "Virou série",
+      "sub": "Park Seo-joon",
+      "tamanho": 170,
+      "imagem": "img/019_itaewon_class_parte1/05_capa_recorte.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Park Sae-ro-yi perde o pai num acidente causado por Jang Geun-won, filho do dono do poderoso grupo Jangga.",
+      "destaque": "O grupo Jangga",
+      "tamanho": 160,
+      "imagem": "img/019_itaewon_class_parte1/04_banner_recorte_b.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Revoltado, ele parte pra cima do Geun-won, e acaba na prisão.",
+      "destaque": "Preso",
+      "tamanho": 190,
+      "imagem": "img/019_itaewon_class_parte1/05_capa_recorte.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Enquanto isso, Oh Soo-ah, a garota de quem ele gosta, ganha uma bolsa de estudos do próprio dono do grupo Jangga.",
+      "destaque": "Uma bolsa suspeita",
+      "sub": "Oh Soo-ah",
+      "tamanho": 150,
+      "imagem": "img/019_itaewon_class_parte1/03_banner_recorte_a.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Quando sai, ele abre um bar em Itaewon, o DanBam, com um plano: derrubar o grupo Jangga.",
+      "destaque": "O bar DanBam",
+      "sub": "Itaewon",
+      "tamanho": 170,
+      "imagem": "img/019_itaewon_class_parte1/02_capa_tapas.jpg",
+      "foco": 0.2
+    },
+    {
+      "fala": "E aí ele conhece Jo Yi-seo, que vira gerente do bar e muda o jogo. Quer a parte dois? Comenta e segue o canal.",
+      "destaque": "Quer a parte 2?",
+      "sub": "Comenta aí",
+      "tamanho": 160,
+      "imagem": "img/019_itaewon_class_parte1/02_capa_tapas.jpg",
+      "foco": 0.6
+    }
+  ],
+  "thumb": "Perdeu tudo e jurou vingança",
+  "thumb_sub": "Itaewon Class • Parte 1",
+  "thumb_imagem": "img/019_itaewon_class_parte1/02_capa_tapas.jpg",
+  "thumb_foco": 0.4,
+  "titulo": "Ele perdeu TUDO pra um herdeiro rico 🍺 Itaewon Class Parte 1 #manhwa #dorama",
+  "descricao": "A história de Itaewon Class, parte 1 (sem spoiler do final): Park Sae-ro-yi perde o pai num acidente causado por Jang Geun-won, herdeiro do grupo Jangga, vai preso e, ao sair, abre o bar DanBam em Itaewon com um plano de vingança. Aí ele conhece Jo Yi-seo.\n\nItaewon Class: webtoon de Kwang Jin; série da JTBC (2020) com Park Seo-joon, na Netflix.\n\nQuer a parte 2? Comenta aí 👇\n\n#manhwa #itaewonclass #dorama #webtoon #netflix",
+  "tags": [
+    "manhwa",
+    "itaewon class",
+    "itaewon class historia",
+    "park sae ro yi",
+    "park seo joon",
+    "jo yi seo",
+    "dorama",
+    "webtoon",
+    "netflix",
+    "resumo manhwa"
+  ],
+  "fontes_imagens": {
+    "01_banner_tapas.jpg": "Banner oficial na Tapas - tapas.io/series/itaewon-class/info",
+    "02_capa_tapas.jpg": "Capa oficial na Tapas (mesma página)",
+    "03_banner_recorte_a.jpg": "Recorte do banner oficial da Tapas",
+    "04_banner_recorte_b.jpg": "Recorte do banner oficial da Tapas",
+    "05_capa_recorte.jpg": "Recorte da capa oficial da Tapas"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "tag": "RANKING MANHWA",
+  "voz": "pt-BR-AntonioNeural",
+  "velocidade": "+10%",
+  "segmentos": [
+    {
+      "fala": "Três manhwas de romance que viraram dorama. Qual é o seu favorito?",
+      "destaque": "Romance vira dorama",
+      "sub": "Top 3",
+      "tamanho": 150,
+      "imagem": "img/020_ranking_romances_dorama/03_business_proposal_tapas.jpg",
+      "foco": 0.4
+    },
+    {
+      "fala": "Número três: Cheese in the Trap. O webtoon de Soonkki virou série da tvN em 2016, com Park Hae-jin e Kim Go-eun.",
+      "destaque": "#3 Cheese in the Trap",
+      "sub": "tvN • 2016",
+      "tamanho": 140,
+      "imagem": "img/020_ranking_romances_dorama/01_cheese_in_the_trap_webtoon.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Uma bolsista esforçada se envolve com um veterano rico e manipulador.",
+      "destaque": "Veterano perigoso",
+      "tamanho": 150,
+      "imagem": "img/020_ranking_romances_dorama/01_cheese_in_the_trap_webtoon.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Número dois: Love Alarm. O webtoon de Chon Kye-young virou série da Netflix em 2019, com Kim So-hyun.",
+      "destaque": "#2 Love Alarm",
+      "sub": "Netflix • 2019",
+      "tamanho": 160,
+      "imagem": "img/020_ranking_romances_dorama/02_love_alarm_tapas.jpg",
+      "foco": 0.3
+    },
+    {
+      "fala": "Nesse mundo, um aplicativo avisa quando alguém por perto gosta de você.",
+      "destaque": "O app do amor",
+      "tamanho": 160,
+      "imagem": "img/020_ranking_romances_dorama/02_love_alarm_tapas.jpg",
+      "foco": 0.7
+    },
+    {
+      "fala": "Número um: A Business Proposal. Virou série da SBS em 2022, com Ahn Hyo-seop e Kim Se-jeong. Ela vai a um encontro às cegas no lugar de uma amiga, e o encontro é com o próprio chefe.",
+      "destaque": "#1 Business Proposal",
+      "sub": "SBS • 2022",
+      "tamanho": 140,
+      "imagem": "img/020_ranking_romances_dorama/03_business_proposal_tapas.jpg",
+      "foco": 0.6
+    },
+    {
+      "fala": "Qual você já viu? Comenta e segue o canal.",
+      "destaque": "Qual você viu?",
+      "sub": "Comenta aí",
+      "tamanho": 160
+    }
+  ],
+  "thumb": "Romances que viraram dorama",
+  "thumb_sub": "Ranking",
+  "thumb_imagem": "img/020_ranking_romances_dorama/03_business_proposal_tapas.jpg",
+  "thumb_foco": 0.4,
+  "titulo": "3 MANHWAS de romance que viraram DORAMA 💘 Ranking #manhwa #dorama",
+  "descricao": "Ranking: Cheese in the Trap (webtoon de Soonkki, série da tvN em 2016), Love Alarm (webtoon de Chon Kye-young, série da Netflix em 2019) e A Business Proposal (série da SBS em 2022, com Ahn Hyo-seop e Kim Se-jeong).\n\nQual você já viu? Comenta aí 👇\n\n#manhwa #dorama #businessproposal #lovealarm #cheeseinthetrap #kdrama",
+  "tags": [
+    "manhwa",
+    "dorama",
+    "kdrama",
+    "ranking manhwa",
+    "manhwa de romance",
+    "a business proposal",
+    "love alarm",
+    "cheese in the trap",
+    "webtoon"
+  ],
+  "fontes_imagens": {
+    "01_cheese_in_the_trap_webtoon.jpg": "Pôster oficial na WEBTOON - webtoons.com/en/drama/cheese-in-the-trap/list?title_no=99",
+    "02_love_alarm_tapas.jpg": "Capa oficial na Tapas - tapas.io/series/love-alarm/info",
+    "03_business_proposal_tapas.jpg": "Capa oficial na Tapas - tapas.io/series/a-business-proposal/info"
+  }
+}
